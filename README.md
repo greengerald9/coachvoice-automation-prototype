@@ -46,4 +46,4 @@ This project is a prototype demonstrating a real-time workflow for processing co
 
 ## 🤝 Connect with me
 
-[Your LinkedIn profile link]
+[https://www.linkedin.com/in/gerald-green-679b311b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
