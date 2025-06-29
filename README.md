@@ -27,13 +27,13 @@ This project is a prototype demonstrating a real-time workflow for processing co
 ## 📸 Screenshots
 
 ### Trigger Setup
-![Trigger Screenshot](./TriggerScreenshot.png)
+![Trigger Screenshot]()
 
 ### Get File Content
 ![Get File Content Screenshot](./GetFileContent.png)
 
 ### Compose
-![Compose Screenshot](./Compose.png)
+![Compose Screenshot](https://github.com/greengerald9/coachvoice-automation-prototype/blob/main/Compose.png)%20Medium.png?raw=true)
 
 ### Email Received
 ![Email Screenshot](./EmailScreenshot.png)
