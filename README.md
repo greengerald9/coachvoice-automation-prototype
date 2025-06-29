@@ -26,6 +26,18 @@ This project is a prototype demonstrating a real-time workflow for processing co
 
 ## 📸 Screenshots
 
+### Trigger Setup
+![Trigger Screenshot](./TriggerScreenshot.png)
+
+### Get File Content
+![Get File Content Screenshot](./GetFileContent.png)
+
+### Compose
+![Compose Screenshot](./Compose.png)
+
+### Email Received
+![Email Screenshot](./EmailScreenshot.png)
+
 (Add your screenshots here!)
 
 ## 🔗 LinkedIn Post
