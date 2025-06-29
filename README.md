@@ -33,7 +33,7 @@ This project is a prototype demonstrating a real-time workflow for processing co
 ![Get File Content Screenshot](./GetFileContent.png)
 
 ### Compose
-![Compose Screenshot](https://github.com/greengerald9/coachvoice-automation-prototype/blob/main/Compose.png)%20Medium.png?raw=true)
+![Compose Screenshot](https://github.com/greengerald9/coachvoice-automation-prototype/blob/main/Compose.png)
 
 ### Email Received
 ![Email Screenshot](./EmailScreenshot.png)
