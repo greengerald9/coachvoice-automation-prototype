@@ -42,7 +42,7 @@ This project is a prototype demonstrating a real-time workflow for processing co
 
 ## 🔗 LinkedIn Post
 
-(Link to your LinkedIn post once published!)
+(https://www.linkedin.com/posts/gerald-green-679b311b2_azure-logicapps-sportstech-activity-7345093825075343360-lNcb?utm_source=share&utm_medium=member_ios&rcm=ACoAADGlIX0BlXuPjlOWFjy3Q_qeoqv6iXzuHoo)
 
 ## 🤝 Connect with me
 
